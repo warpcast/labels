@@ -1,6 +1,6 @@
 # Labels
 
-Warpacst produces [labels](https://github.com/farcaster/labels) to categorize Farcaster accounts which are made public here.
+Warpcast produces [labels](https://github.com/farcasterxyz/labels) to categorize Farcaster accounts which are made public here.
 
 ## [Spam](https://github.com/warpcast/labels/blob/main/spam.jsonl)
 
